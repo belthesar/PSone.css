@@ -27,21 +27,21 @@
 }
 @font-face {
   font-family: 'RationalTWDisplay';
-  src:url('./fonts/RationalTWDisplay.eot');
-  src:url('./fonts/RationalTWDisplay.eot?#iefix') format('embedded-opentype'),
-      url('./fonts/RationalTWDisplay.woff2') format('woff2'),
-      url('./fonts/RationalTWDisplay.woff') format('woff'),
-      url('./fonts/RationalTWDisplay.ttf') format('truetype');
+  src:url('https://cdn.jsdelivr.net/gh/belthesar/PSone.css@master/fonts/RationalTWDisplay.eot');
+  src:url('https://cdn.jsdelivr.net/gh/belthesar/PSone.css@master/fonts/RationalTWDisplay.eot?#iefix') format('embedded-opentype'),
+      url('https://cdn.jsdelivr.net/gh/belthesar/PSone.css@master/fonts/RationalTWDisplay.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/belthesar/PSone.css@master/fonts/RationalTWDisplay.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/belthesar/PSone.css@master/fonts/RationalTWDisplay.ttf') format('truetype');
   font-weight:normal;
   font-style:normal;
 }
 @font-face {
 	font-family:'Reactor7';
-		src:url('Reactor7.eot');
-		src:url('Reactor7.eot?#iefix') format('embedded-opentype'),
-				url('Reactor7.woff') format('woff'),
-				url('Reactor7.ttf') format('truetype'),
-				url('Reactor7.svg#Reactor7') format('svg');
+		src:url('https://cdn.jsdelivr.net/gh/belthesar/PSone.css@master/fonts/Reactor7.eot');
+		src:url('https://cdn.jsdelivr.net/gh/belthesar/PSone.css@master/fonts/Reactor7.eot?#iefix') format('embedded-opentype'),
+				url('https://cdn.jsdelivr.net/gh/belthesar/PSone.css@master/fonts/Reactor7.woff') format('woff'),
+				url('https://cdn.jsdelivr.net/gh/belthesar/PSone.css@master/fonts/Reactor7.ttf') format('truetype'),
+				url('https://cdn.jsdelivr.net/gh/belthesar/PSone.css@master/fonts/Reactor7.svg#Reactor7') format('svg');
 	font-weight:normal;
 	font-style:normal;
 }
