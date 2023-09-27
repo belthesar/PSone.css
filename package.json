@@ -1,6 +1,6 @@
 {
   "name": "PSone.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Playstation 1 style CSS Framework, inspired by NES.css",
   "main": "index.html",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/98mprice/PSone.css.git"
+    "url": "git+https://github.com/belthesar/PSone.css.git"
   },
   "keywords": [
     "css",
@@ -22,19 +22,22 @@
   "author": "98mprice",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/98mprice/PSone.css/issues"
+    "url": "https://github.com/belthesar/PSone.css/issues"
   },
-  "homepage": "https://github.com/98mprice/PSone.css#readme",
+  "homepage": "https://github.com/belthesar/PSone.css#readme",
   "browserslist": [
     "> 1%"
   ],
   "devDependencies": {
-    "@storybook/addon-backgrounds": "^4.1.13",
-    "@storybook/addon-knobs": "^4.1.13",
-    "@storybook/html": "^4.1.13",
-    "autoprefixer": "^9.4.8",
-    "clean-css-cli": "^4.2.1",
+    "@storybook/addon-backgrounds": "^7.4.5",
+    "@storybook/addon-knobs": "^7.0.2",
+    "@storybook/html": "^7.4.5",
+    "autoprefixer": "^10.4.16",
+    "clean-css-cli": "^5.6.2",
     "poi": "^12.5.5",
-    "postcss-cli": "^6.1.2"
+    "postcss-cli": "^10.1.0"
+  },
+  "dependencies": {
+    "postcss": "^8.4.30"
   }
 }
